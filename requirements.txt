@@ -1,2 +1,10 @@
 joblib
-streamlit_option_menu
+streamlit
+joblib
+Pillow
+streamlit-option-menu
+numpy
+opencv-python
+tensorflow
+gtts
+
