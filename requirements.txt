@@ -9,5 +9,5 @@ tensorflow
 gtts
 opencv-python-headless
 playsound==1.2.2
-
+pygame
 
